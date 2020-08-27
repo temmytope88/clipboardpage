@@ -9,6 +9,7 @@ body{
   box-sizing: border-box;
   width:100%;
   font-size: 18px;
+  font-family: 'Bai Jamjuree', sans-serif;
 }
 
 .search, .sync, .history{
